@@ -8,8 +8,11 @@
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
+  <img src="https://img.icons8.com/?size=100&id=NFPVueWvSCNS&format=png&color=000000" width="120" alt="php">
+  <img src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000" width="120" alt="kotlin">
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="120" alt="python">
+  <img src="https://img.icons8.com/?size=100&id=WbhlkucPF3tZ&format=png&color=000000" width="120" alt="JAVA">
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="120" alt="JavaScript">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
 </table>
 
