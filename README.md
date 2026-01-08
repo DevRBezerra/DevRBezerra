@@ -2,7 +2,8 @@
 
 <table>
   <a href="https://github.com/DevRBezerra">
-    💻Tech Stack`s
+  <a href="https://gh-readme-profile.vercel.app/api?username=DevRBezerra&theme=nordfox&locale=pt-BR">
+  💻Tech Stack`s
   <br>
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
   <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="120" alt="React Native">
