@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrbezerra&layout=compact&langs_count=6&theme=merko"/>
   <br>
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
+  <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="120" alt="React Native">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/?size=100&id=NFPVueWvSCNS&format=png&color=000000" width="120" alt="php">
   <img src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000" width="120" alt="kotlin">
