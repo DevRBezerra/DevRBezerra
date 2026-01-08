@@ -2,7 +2,7 @@
 
 <table>
   <a href="https://github.com/DevRBezerra">
-  <a href="https://gh-readme-profile.vercel.app/api?username=DevRBezerra&theme=nordfox&locale=pt-BR">
+  https://gh-readme-profile.vercel.app/api?username=DevRBezerra&theme=nordfox&locale=pt-BR
   💻Tech Stack`s
   <br>
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
