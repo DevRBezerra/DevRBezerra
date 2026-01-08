@@ -2,8 +2,6 @@
 
 <table>
   <a href="https://github.com/DevRBezerra">
-  ![Karanalpe Status](https://gh-readme-profile.vercel.app/api?username=DevRBezerra&theme=nordfox&locale=pt-BR)
-  [![willianrod's wakatime stats][([https://github-readme-stats.vercel.app/api/wakatime?username=willianrod](https://gh-readme-profile.vercel.app/api?username=DevRBezerra&theme=nordfox&locale=pt-BR))](https://github.com/anuraghazra/github-readme-stats)](https://gh-readme-profile.vercel.app/api?username=DevRBezerra&theme=nordfox&locale=pt-BR)
   💻Tech Stack`s
   <br>
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
