@@ -1,9 +1,6 @@
 # Hello World, I'm Renan, be very welcome
 
 <table>
-  <a href="https://github.com/DevRBezerra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrbezerra&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrbezerra&layout=compact&langs_count=6&theme=merko"/>
   <br>
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
   <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="120" alt="React Native">
